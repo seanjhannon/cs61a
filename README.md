@@ -1,4 +1,4 @@
-# cs61a
+# cs61a-scheme
 CS61A Spring 2021
 
 The final project for UC Berkeley's Computer Science Class CS61A. Project consists of using Python to implement an interpreter for a subset of the Scheme programming language. 
